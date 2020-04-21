@@ -21,6 +21,7 @@ function tectonicPlates(platesData) {
 
 // Reflect the magnitude of the earthquake in color 
 function magnitudeColor(magnitude) {
+    // console.log(magnitude)
     switch (true) {
         case magnitude >= 5:
             return '#d35400';
