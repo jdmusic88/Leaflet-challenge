@@ -1,0 +1,13 @@
+.legend {
+    line-height: 22px;
+    color: black;
+    text-align: right;
+    background-color: snow;
+}
+.legend i {
+    width: 35px;
+    height: 20px;
+    float: right;
+    margin-left: 8px;
+    opacity: 0.8;
+}
